@@ -1,4 +1,4 @@
-#Character to ASCII
+#Convert Character to ASCII
 #ord() function
 ch = input("Enter a character:")
 ascii_value= ord(ch)
