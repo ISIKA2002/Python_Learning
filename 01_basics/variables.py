@@ -1,4 +1,4 @@
-#Detailed about a student
+#Declaring variables and check datatypes
 
 #string_variable
 name= "John Stive"
