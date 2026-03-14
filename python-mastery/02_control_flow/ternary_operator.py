@@ -1,4 +1,4 @@
-#Ternary_operator
+#ternary_operator
 num= int(input("Enter a number:"))
-result = "Even" if num % 2==0 else "odd"
+result = "Even" if num % 2==0 else "Odd"
 print("Number is:", result)
