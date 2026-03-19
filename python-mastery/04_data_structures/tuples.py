@@ -25,3 +25,16 @@ print("Access item:", colours[-2:]) #range of negative indexing
 if "Green" in colours:
     print("Green is present")
 
+#Traverse the tuple
+print("Traverse tuple:")
+for i in colours:
+    print(i)
+
+#concatinates 2 strings
+clr= ("orange", "Blue")
+colours= colours+ clr
+print("Concatinates:", colours)
+
+#unpacking a tuple
+colours1, colours2, colours3, colours4, colours5, colours6= colours
+print("Unpacking a tuple:", colours1, colours2, colours3, colours4, colours5, colours6)
