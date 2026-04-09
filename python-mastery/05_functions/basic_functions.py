@@ -49,7 +49,3 @@ def studentinfo(**kwargs):
         print(x, "is", y)
 studentinfo(name="John", age=40, city="BBSR")
 studentinfo(name="Rok", age=30, city="BNG")
-
-
-        
-
